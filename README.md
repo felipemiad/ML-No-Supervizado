@@ -31,10 +31,6 @@ El repositorio está organizado de la siguiente manera:
 ├── README.md                     # Este archivo README
 ```
 
-## Imágenes
-
-Las imágenes contenidas en la carpeta **`/images`** fueron generadas durante el proceso de análisis y representan gráficas clave, como la distribución del promedio de días hasta el siniestro, la relación entre el total desembolsado y los siniestros, y las visualizaciones de los clusters obtenidos mediante K-Means.
-
 ## Confidencialidad de los datos
 
 Por motivos de confidencialidad, los datos originales utilizados en este análisis **no están incluidos en este repositorio**. La base de datos contiene información sensible de intermediarios financieros, por lo que no puede ser compartida públicamente. Además, el nombre real de la entidad ha sido sustituido por **"Entidad"** en todo el proyecto para proteger la identidad de la organización.
@@ -44,6 +40,7 @@ Si deseas reproducir este análisis con tus propios datos, puedes adaptar el có
 ## Resultados principales
 
 - Se identificaron grupos de intermediarios financieros con características similares utilizando algoritmos de *clustering*.
+- La mejor representación se da con kmeans y 5 clusters donde los ultimos son los mas riesgos mas idoneos para la organizacion 
 - El análisis reveló patrones importantes en el comportamiento de los intermediarios con respecto a la siniestralidad y el total desembolsado.
 - Se realizaron recomendaciones para ajustar las tarifas de manera más justa, con el objetivo de optimizar la relación comercial y mitigar el riesgo de impago.
 
