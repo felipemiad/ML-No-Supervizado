@@ -26,11 +26,8 @@ El repositorio está organizado de la siguiente manera:
 ```
 ├── notebooks/
 │   ├── Proyecto_final.ipynb      # Notebook principal con el análisis y clustering
-├── images/                       # Carpeta que contiene las visualizaciones generadas
-│   ├── distribucion_siniestros.png
-│   ├── clusters_kmeans.png
-│   ├── boxplot_siniestros.png
-│   └── ...
+├── Documento/                       # Carpeta que contiene el pdf con el documento escrito
+│   ├── Proyecto Final.pdf
 ├── README.md                     # Este archivo README
 ```
 
@@ -58,7 +55,7 @@ Se recomienda que la **Entidad** implemente un sistema dinámico de segmentació
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_proyecto.git
+   git clone https://github.com/felipemiad/ML-No-Supervizado.git
    ```
    
 2. Instalar las dependencias necesarias:
@@ -74,7 +71,3 @@ Se recomienda que la **Entidad** implemente un sistema dinámico de segmentació
 ## Contacto
 
 Si tienes preguntas sobre este proyecto, no dudes en contactarnos a través de este repositorio.
-
----
-
-Con este **README**, incluyes toda la información relevante para el proyecto, garantizando que la confidencialidad de los datos y la identidad de la entidad se mantenga protegida. ¡Espero que te sea útil!
