@@ -48,6 +48,10 @@ Si deseas reproducir este análisis con tus propios datos, puedes adaptar el có
 
 Se recomienda que la **Entidad** implemente un sistema dinámico de segmentación de intermediarios financieros, basado en un análisis de datos continuo, para ajustar las tarifas de manera más justa y eficaz. También se sugiere considerar factores externos, como cambios macroeconómicos, en futuros análisis.
 
+## Video
+
+https://www.canva.com/design/DAGR0zk-Xns/NJw2fXTpUAYIPM3dLUWT4A/watch?utm_content=DAGR0zk-Xns&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Instalación y uso
 
 1. Clonar este repositorio:
